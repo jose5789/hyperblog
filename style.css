@@ -1,7 +1,17 @@
 body {
-    text-align: center;
+    text-align: left;
     font-family: sans-serif;
-    text-align: center;
-    font-family: sans-serif;
-    color: blue;
+    color: black;
+}
+
+#post {
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid black;
+    margin: auto;
+}
+
+#post h1 {
+    font-size: 20px;
 }
